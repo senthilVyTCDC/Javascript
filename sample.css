@@ -1,0 +1,18 @@
+#head1{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
+#task-input{
+    text-align: center;
+}
+#task-ind{
+    text-align: center;
+    padding: 2px;
+    height: 70px;
+    width: 100px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+}
